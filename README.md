@@ -16,11 +16,11 @@
 ---
 
 ### 👩‍💻 About Me ⭐
-I am a dedicated **Computer Programming** student at **Bartın University** with a huge passion for the tech world. Everything about coding excites me, but I'm especially driven by the creative possibilities of software and AI.
+I am a dedicated **Computer Programming** student with a huge passion for the tech world. Everything about coding excites me, but I'm especially driven by the creative possibilities of software and AI. ✨
 
-*   🎓 **Education:** Associate Degree in Computer Programming.
+*   🎓 **Education:** Associate Degree in Computer Programming at Bartın University.
 *   🎮 **Future Goal:** Aspiring to work in the **Game Development** industry!
-*   🚀 **Current Focus:** Python, Data Structures, and SQL.
+*   🚀 **Main Interests:** Python, Data Structures, and Creative Coding.
 *   🎨 **Aesthetic:** Passionate about dark themes with neon purple & pink accents.
 
 ---
@@ -34,8 +34,8 @@ I am a dedicated **Computer Programming** student at **Bartın University** with
 
 ### 👾 Retro Gaming Activity ✨
 <p align="center">
-  <!-- Bu animasyon senin GitHub katkılarını vuran bir Space Invaders gemisi ekler -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yzeire&show_icons=true&theme=dracula&hide_border=true" alt="Space Invaders" />
+  <!-- Bu senin GitHub aktivitelerinle oynanan gerçek Space Invaders animasyonun -->
+  <img src="https://raw.githubusercontent.com/yzeire/yzeire/output/github-contribution-grid-snake-dark.svg" alt="Space Invaders Game" />
 </p>
 
 ---
