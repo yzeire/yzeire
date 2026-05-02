@@ -16,9 +16,9 @@
 ---
 
 ### 👩‍💻 About Me ⭐
-I am a dedicated **Computer Programming** student with a huge passion for the tech world. Everything about coding excites me, but I'm especially driven by the creative possibilities of software and AI.
+I am a dedicated **Computer Programming** student at **Bartın University** with a huge passion for the tech world. Everything about coding excites me, but I'm especially driven by the creative possibilities of software and AI.
 
-*   🎓 **Education:** Associate Degree in Computer Programming at Bartın University.
+*   🎓 **Education:** Associate Degree in Computer Programming.
 *   🎮 **Future Goal:** Aspiring to work in the **Game Development** industry!
 *   🚀 **Main Interests:** Python, Data Structures, and Creative Coding.
 *   🎨 **Aesthetic:** Passionate about dark themes with neon purple & pink accents.
@@ -32,21 +32,19 @@ I am a dedicated **Computer Programming** student with a huge passion for the te
 
 ---
 
-### 📊 GitHub Analytics ✨
+### 👾 Retro Gaming Activity ✨
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yzeire&show_icons=true&theme=dracula&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&icon_color=ff79c6&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzeire&layout=compact&theme=dracula&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&icon_color=ff79c6&hide_border=true" width="48%" />
+  <!-- Bu kısım senin GitHub aktivitelerini Space Invaders oyununa dönüştürür -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yzeire&theme=dracula&bg_color=282a36&color=ff79c6&line=bd93f9&point=ff79c6&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
 
-### 🎧 Live Status ⭐
+### 🤝 Connect with me ⭐
 <p align="center">
-  <a href="https://open.spotify.com/user/vdpmuufw86utdidlniqkyegiz">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=vdpmuufw86utdidlniqkyegiz&cover_image=true&theme=dracula" />
-  </a>
-  <br><br>
-  <img src="https://lanyard.websandbox.xyz/api/1145688153156501574?theme=dracula&bg=282a36" />
+<a href="mailto:senin_mailin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://discord.com/users/1145688153156501574"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://www.galatasaray.org"><img src="https://img.shields.io/badge/Galatasaray-A32638?style=for-the-badge&logo=galatasaray&logoColor=FDB912" /></a>
 </p>
 
 ---
