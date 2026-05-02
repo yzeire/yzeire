@@ -1,51 +1,48 @@
-<!-- Header: Soft Pembe Dalgalı Başlık -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%E2%9C%A8%20Hi,%20I'm%20Beyza!%20%E2%9C%A8&fontSize=40&animation=fadeIn&fontColor=ffffff&fontAlignY=45" alt="Header" />
+  <img src="https://i.pinimg.com/originals/aa/12/11/aa12111e7a0d8f69886f6f3adfbf1f0a.gif" width="600" />
 </p>
 
-<!-- Alt Başlık: Kurdele ve Kalp -->
+<h1 align="center"> ✨ Hi, I'm Beyza! ✨ </h1>
+
 <p align="center">
-  <strong>🎀 Computer Programming Student @ Bartın University 🌷</strong><br>
-  <em>💖 Aspiring Game Developer & AI Enthusiast 🎀</em>
+  <strong>Computer Programming Student @ Bartın University 🎓</strong><br>
+  <em>Aspiring Game Developer & AI Enthusiast 🕹️</em>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yzeire&color=ffb6c1&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
----
-
-### 🌸 About Me 🌸
-<!-- Metin yumuşak pastel renklerle çerçevelendi -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1&height=100&section=text&text=Dedicated%20Computer%20Programming%20student%20with%20a%20huge%20passion%20for%20creative%20coding.&fontSize=18&fontColor=ffffff" alt="About Me Text" />
-</p>
-
-*   🎀 **Education:** Associate Degree in Computer Programming.
-*   Tulip **Future Goal:** Aspiring to work in the **Game Development** industry! 💖
-*   🎀 **Main Interests:** Python, Data Structures, and Creative Coding.
-*   🌸 **Aesthetic:** Soft pastels (pink, purple) with ribbons and sparkles. 💖
-
----
-
-### 🌷 Tech Stack 🌷
-<p align="center">
-  <!-- Yetenekler pastel tonlarda, yumuşak hatlı -->
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,vscode,pycharm&theme=light" alt="Tech Stack" />
+  <img src="https://komarev.com/ghpvc/?username=yzeire&color=ff69b4&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
-### 💖 Connect with me 💖
+### 👩‍💻 About Me ⭐
+I am a dedicated **Computer Programming** student with a huge passion for the tech world. Everything about coding excites me, but I'm especially driven by the creative possibilities of software and AI. ✨
+
+*   🎓 **Education:** Associate Degree in Computer Programming at Bartın University.
+*   🎮 **Future Goal:** Aspiring to work in the **Game Development** industry!
+*   🚀 **Main Interests:** Python, Data Structures, and Creative Coding.
+*   🎨 **Aesthetic:** Passionate about dark themes with neon purple & pink accents.
+
+---
+
+### 🛠 Tech Stack ⭐
 <p align="center">
-  <a href="mailto:senin_mailin@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,vscode,pycharm&theme=dark" />
 </p>
 
 ---
 
-<!-- Footer: Soft Kalp ve Kurdele Şekilleri -->
+### 👾 Retro Gaming Activity ✨
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=heart&color=gradient&height=150&section=footer&text=🎀%20Dreaming%20in%20Code%20💖&fontSize=30&fontColor=ffffff" alt="Footer" />
+  <!-- Bu senin GitHub aktivitelerinle oynanan gerçek Space Invaders animasyonun -->
+  <img src="https://raw.githubusercontent.com/yzeire/yzeire/output/github-contribution-grid-snake-dark.svg" alt="Space Invaders Game" />
 </p>
+
+---
+
+### 🤝 Connect with me ⭐
+<p align="center">
+<a href="mailto:senin_mailin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
