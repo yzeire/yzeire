@@ -36,8 +36,8 @@ I am a dedicated **Computer Programming** student with a huge passion for the te
 
 ### 📊 GitHub Analytics ✨
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-yzeire.vercel.app/api?username=yzeire&show_icons=true&theme=dracula&count_private=true&hide_border=true&icon_color=ff79c6&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" />
-  <img height="170em" src="https://github-readme-stats-yzeire.vercel.app/api/top-langs/?username=yzeire&layout=compact&theme=dracula&hide_border=true&icon_color=ff79c6&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yzeire&show_icons=true&theme=dracula&count_private=true&hide_border=true&icon_color=ff79c6&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzeire&layout=compact&theme=dracula&hide_border=true&icon_color=ff79c6&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" />
 </p>
 
 ---
