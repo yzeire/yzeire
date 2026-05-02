@@ -41,3 +41,16 @@ I am a dedicated **Computer Programming** student with a huge passion for the te
 </p>
 
 ---
+
+### 🎧 Live Status ⭐
+<p align="center">
+  <!-- Spotify Card -->
+  <a href="https://open.spotify.com/user/vdpmuufw86utdidlniqkyegiz">
+    <img src="https://novatorem-spotify-readme.vercel.app/api/now-playing?uid=vdpmuufw86utdidlniqkyegiz&theme=dracula" alt="Spotify" />
+  </a>
+  <br><br>
+  <!-- Discord Status -->
+  <img src="https://lanyard.websandbox.xyz/api/yikilmisgemiler?theme=dracula&bg=282a36" alt="Discord" />
+</p>
+
+---
