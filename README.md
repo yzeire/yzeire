@@ -50,9 +50,7 @@ I am a dedicated **Computer Programming** student with a huge passion for the te
   </a>
   <br><br>
   <!-- Discord Status -->
-  <a href="https://discord.com/users/yikilmisgemiler">
-    <img src="https://lanyard.websandbox.xyz/api/yikilmisgemiler?theme=dracula&bg=282a36" alt="Discord Status" />
-  </a>
+  <img src="https://lanyard.websandbox.xyz/api/1145688153156501574?theme=dracula&bg=282a36" alt="Discord Status" />
 </p>
 
 ---
