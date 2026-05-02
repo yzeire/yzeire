@@ -16,41 +16,37 @@
 ---
 
 ### 👩‍💻 About Me ⭐
-I am a dedicated **Computer Programming** student with a huge passion for the tech world. Everything about coding excites me, but I'm especially driven by the creative possibilities of software and AI. ✨
+I am a dedicated **Computer Programming** student with a huge passion for the tech world. Everything about coding excites me, but I'm especially driven by the creative possibilities of software and AI.
 
-*   🎓 **Education:** Associate Degree in Computer Programming at Bartın University. 🌟
-*   🎮 **Future Goal:** Aspiring to work in the **Game Development** industry! 🕹️
-*   🚀 **Main Interests:** Python, Data Structures, and Creative Coding. 💫
-*   🎨 **Aesthetic:** Passionate about dark themes with neon purple & pink accents. ✨
+*   🎓 **Education:** Associate Degree in Computer Programming at Bartın University.
+*   🎮 **Future Goal:** Aspiring to work in the **Game Development** industry!
+*   🚀 **Main Interests:** Python, Data Structures, and Creative Coding.
+*   🎨 **Aesthetic:** Passionate about dark themes with neon purple & pink accents.
 
 ---
 
 ### 🛠 Tech Stack ⭐
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,vscode,pycharm&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,vscode,pycharm&theme=dark" />
 </p>
 
 ---
 
 ### 📊 GitHub Analytics ✨
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yzeire&show_icons=true&theme=dracula&count_private=true&hide_border=true&icon_color=ff79c6&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzeire&layout=compact&theme=dracula&hide_border=true&icon_color=ff79c6&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yzeire&show_icons=true&theme=dracula&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&icon_color=ff79c6&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzeire&layout=compact&theme=dracula&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&icon_color=ff79c6&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ### 🎧 Live Status ⭐
 <p align="center">
-  <!-- Spotify Card -->
   <a href="https://open.spotify.com/user/vdpmuufw86utdidlniqkyegiz">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=vdpmuufw86utdidlniqkyegiz&cover_image=true&theme=dracula" alt="Spotify" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=vdpmuufw86utdidlniqkyegiz&cover_image=true&theme=dracula" />
   </a>
   <br><br>
-  <!-- Discord Status -->
-  <img src="https://lanyard.websandbox.xyz/api/1145688153156501574?theme=dracula&bg=282a36" alt="Discord Status" />
+  <img src="https://lanyard.websandbox.xyz/api/1145688153156501574?theme=dracula&bg=282a36" />
 </p>
 
 ---
