@@ -46,11 +46,13 @@ I am a dedicated **Computer Programming** student with a huge passion for the te
 <p align="center">
   <!-- Spotify Card -->
   <a href="https://open.spotify.com/user/vdpmuufw86utdidlniqkyegiz">
-    <img src="https://novatorem-spotify-readme.vercel.app/api/now-playing?uid=vdpmuufw86utdidlniqkyegiz&theme=dracula" alt="Spotify" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=vdpmuufw86utdidlniqkyegiz&cover_image=true&theme=dracula" alt="Spotify" />
   </a>
   <br><br>
   <!-- Discord Status -->
-  <img src="https://lanyard.websandbox.xyz/api/yikilmisgemiler?theme=dracula&bg=282a36" alt="Discord" />
+  <a href="https://discord.com/users/yikilmisgemiler">
+    <img src="https://lanyard.websandbox.xyz/api/yikilmisgemiler?theme=dracula&bg=282a36" alt="Discord Status" />
+  </a>
 </p>
 
 ---
