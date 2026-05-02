@@ -18,10 +18,10 @@
 ### 👩‍💻 About Me ⭐
 I am a dedicated **Computer Programming** student with a huge passion for the tech world. Everything about coding excites me, but I'm especially driven by the creative possibilities of software and AI. ✨
 
-*   🎓 **Education:** Associate Degree in Computer Programming (Bartın University) 🌟
+*   🎓 **Education:** Associate Degree in Computer Programming at Bartın University. 🌟
 *   🎮 **Future Goal:** Aspiring to work in the **Game Development** industry! 🕹️
-*   🚀 **Main Interests:** Python, Data Structures, and Creative Coding 💫
-*   🎨 **Aesthetic:** Passionate about dark themes with neon purple & pink accents ✨
+*   🚀 **Main Interests:** Python, Data Structures, and Creative Coding. 💫
+*   🎨 **Aesthetic:** Passionate about dark themes with neon purple & pink accents. ✨
 
 ---
 
@@ -36,9 +36,8 @@ I am a dedicated **Computer Programming** student with a huge passion for the te
 
 ### 📊 GitHub Analytics ✨
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yzeire&show_icons=true&theme=dracula&count_private=true&hide_border=true&icon_color=ff79c6&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="Beyza's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzeire&layout=compact&theme=dracula&hide_border=true&icon_color=ff79c6&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="Beyza's Languages" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yzeire&show_icons=true&theme=dracula&count_private=true&hide_border=true&icon_color=ff79c6&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="Beyza's Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzeire&layout=compact&theme=dracula&hide_border=true&icon_color=ff79c6&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="Beyza's Languages" />
 </p>
 
 ---
