@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=Beyza&fontSize=90&animation=fadeIn&fontColor=ffffff" />
-</p>
+# ✨ Hi, I'm Beyza! ✨
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/aa/12/11/aa12111e7a0d8f69886f6f3adfbf1f0a.gif" width="100%" />
