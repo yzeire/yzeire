@@ -1,4 +1,6 @@
-# ✨ Hi, I'm Beyza! ✨
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=Beyza&fontSize=90&animation=fadeIn&fontColor=ffffff" />
+</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/aa/12/11/aa12111e7a0d8f69886f6f3adfbf1f0a.gif" width="100%" />
@@ -29,9 +31,10 @@ I am a **Computer Programming** student at **Bartın University** with a huge pa
 ---
 
 ### 📊 GitHub Analytics ✨
-<p align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yzeire&show_icons=true&theme=dracula&count_private=true&hide_border=true&icon_color=ff79c6&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzeire&layout=compact&theme=dracula&hide_border=true&icon_color=ff79c6&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yzeire&show_icons=true&theme=dracula&count_private=true&hide_border=true&icon_color=ff79c6&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="Beyza's Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzeire&layout=compact&theme=dracula&hide_border=true&icon_color=ff79c6&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="Beyza's Languages" />
 </p>
 
 ---
@@ -47,4 +50,4 @@ I'm always open to collaborating on creative projects or just talking about gami
 </p>
 
 ---
-<p align="center">✨ Keep on shining! ✨</p>
+<p align="center">✨ Keep on shining, Beyza! ✨</p>
