@@ -41,7 +41,3 @@ I am a dedicated **Computer Programming** student with a huge passion for the te
 </p>
 
 ---
-
-<p align="center">
-  ✨ <em>Keep on shining, Beyza!</em> ✨
-</p>
